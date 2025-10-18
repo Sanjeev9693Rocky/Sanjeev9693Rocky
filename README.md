@@ -10,7 +10,7 @@
 
 2.Learning Mangement System App (LMS) : ** https://learning-management-system-5-46dy.onrender.com/
 
-3.Netflix :** https://learning-management-system-5-46dy.onrender.com/
+3.Netflix :**  [https://cinemahub-1.onrender.com/]
 
 Email Me 👉 ✉️ **sanjeevranjan5002@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
