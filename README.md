@@ -12,7 +12,7 @@
 
 3.Netflix :**  [https://cinemahub-1.onrender.com/]
 
-Email Me 👉 ✉️ **sanjeevranjan5002@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **sanjeevranjan5002@gmail.com** For Collaboration/Project or Anything Else... 😊😊
 
 - 🔭 **I’m currently working on:** Grocery-App
 - 🌱 **I’m currently learning:** Mern Stack
