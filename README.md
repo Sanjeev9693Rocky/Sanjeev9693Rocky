@@ -1,6 +1,6 @@
 
 # 💫 Hi 👋, I'm Sanjeev Ranjan
-**A passionate Full Stack Engineer || MERN Stack Engineer || jaipur from India**
+__**A passionate Full Stack Engineer || MERN Stack Engineer || jaipur from India**__
 
 **My_leetCode_Account: https://leetcode.com/u/SanjeevRocky9693/
 
