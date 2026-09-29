@@ -2,6 +2,8 @@
 # 💫 Hi 👋, I'm Sanjeev Ranjan
 __**A passionate Full Stack Engineer || MERN Stack Engineer || jaipur from India**__
 
+** LinkedIn : https://www.linkedin.com/in/sanjeev-ranjan-6160a0259/
+
 **My_leetCode_Account: https://leetcode.com/u/SanjeevRocky9693/
 
 ** My_portfolio:** https://sanjeevr-portfolio.netlify.app/
